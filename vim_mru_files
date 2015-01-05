@@ -1,0 +1,401 @@
+# Most recently edited files in Vim (version 3.0)
+/Library/Logs/DiagnosticReports/mdworker_2014-12-23-200331_localhost.crash
+/Library/Logs/DiagnosticReports/mdworker_2014-12-23-200328_localhost.crash
+/private/var/log/system.log
+/var/log/kernel.log
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/inspectors/dev_net_inspector.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/utils/config.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/inspectors/file_inspector.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/collectors/mozilla_hg.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/managers/collector_manager.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/adaptors/hg_adaptor.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/bin/sm_tb_hg_logs.xml
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/collectors/nvd.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/collectors/fn_collector.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/adaptors/db_adaptor.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/tool.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/inspectors/fn_inspector.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/managers/inspector_manager.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/adaptors/version_und_adaptor.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/requirements.txt
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/tmp
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/up.sh
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/utils/utils.py
+/Users/MikeChong/Grad/phones/occam-jwr66v/flash-all.sh
+/Users/MikeChong/Grad/phones/occam-lrx21t/flash-base.sh
+/Users/MikeChong/Grad/phones/occam-lrx21t/flash-all.bat
+/Users/MikeChong/Grad/phones/occam-lrx21t/flash-all.sh
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/report/report.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/report/llncs.cls
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/report/method.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/report/literature.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/report/introduction.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/report/report.bib
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/report/evaluation.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/report/discussion.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/report/spmf.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/report/apriori.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/report/Makefile
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/proposal/position.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/report/report.pdf
+/Users/MikeChong/.vim/bundle/janus/README.md
+/Users/MikeChong/dotfiles/vim_runtime/vimrc
+/Users/MikeChong/dotfiles/vim_mru_files
+/Users/MikeChong/dotfiles/vimrc
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/resources/nvdcve-2.0-2009.xml
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/.git/config
+/Users/MikeChong/Grad/projects/bug_repair/SpinnerTest.java
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/report/ece750_t17_a2.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/report/question2-dtree.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/report/question2-svm.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/report/question3.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q2/LinearSVC-confusion.csv
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q2/results.csv
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q2/up.sh
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q1/results.csv
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a1/ece750_t17_a1.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q2/utils.py
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q2/q2-svm.py
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q1/classifiers/dtree.py
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q1/classifiers/svm.py
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q2/data/DataE.mat
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q2/q2.py
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q1/q1.py
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/ece750_t17_a2.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q1/utils.py
+/Users/MikeChong/Downloads/wire3d_demo.py
+/Users/MikeChong/Downloads/trisurf3d_demo.py
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q1/classifiers/knn.py
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a1/q2/code.py
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q1/classifiers/nbayes.py
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q1/data/DataD.mat
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/a2/q1/up.sh
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/collectors/bugzilla.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/adaptors/understand_adaptor.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/perl/fileInformationExtraction.pl
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/.git/COMMIT_EDITMSG
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/collectors/udb_collector.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/adaptors/understand_csv_adaptor.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/collectors/file_collector.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/adaptors/file_adaptor.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/:w
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/proposal/literature.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/proposal/position.bib
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/proposal/idea.tex
+/Users/MikeChong/Grad/papers/similarchanges_paper/paper.bib
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/adaptors/srcml_adaptor.py
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/ece750_t17_a1.tex
+/Users/MikeChong/Grad/papers/similarchanges_paper/related.tex
+/Users/MikeChong/Grad/ece754/list_related_work.txt
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/question3.tex
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/.git/COMMIT_EDITMSG
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/q4/feature_selection.m
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/q4/run.sh
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/q4/feature_classify.m
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/q4/up.sh
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/q4/classify.m
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/q4/q4.py
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/q2/code.py
+/Users/MikeChong/Library/Logs/pip.log
+/Users/MikeChong/Grad/ECE 750/assignments/a1/ece750a1/q4/data/DataC.mat
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/resources/nvdcve-2.0-2008.xml
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/resources/nvdcve-2.0-2003.xml
+/Users/MikeChong/Grad/Mike/kitchenwin/kitchenwin.py
+/Users/MikeChong/Grad/Mike/kitchenwin/test
+/Users/MikeChong/Grad/projects/vuln_predict/resources/CWE-264
+/Users/MikeChong/Grad/Mike/shellshock.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulpred-icse15/related.tex
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/mcchong@godiva
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/adaptors/patch_adaptor.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/collectors/patches.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/collectors/__init__.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/tool/.gitignore
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/vuln.py
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/vuln.txt
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/out.txt
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/cwedetail.txt
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/cwe.txt
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/count.txt
+/Users/MikeChong/Grad/projects/vuln_predict/vulprediction/Progress.docx
+/Users/MikeChong/Grad/projects/vuln_predict/wiki/MethodAndData.md
+/Users/MikeChong/Grad/vulpred-icse15/IEEEtran.cls
+/Users/MikeChong/Grad/vulpred-icse15/related.tex
+/Users/MikeChong/Grad/papers/similarchanges_paper/.git/COMMIT_EDITMSG
+/Users/MikeChong/Grad/papers/similarchanges_paper/approach.tex
+/Users/MikeChong/Grad/papers/similarchanges_paper/evaluation.tex
+/Users/MikeChong/Grad/projects/bug_repair/num_test_cases
+/Users/MikeChong/Grad/papers/similarchanges_paper/macros.tex
+/Users/MikeChong/Grad/papers/similarchanges_paper/Makefile
+/Users/MikeChong/Grad/projects/bug_repair/coverage.data
+/Users/MikeChong/Grad/papers/similarchanges_paper/.git/config
+/Users/MikeChong/Grad/papers/similarchanges_paper/intro.tex
+/Users/MikeChong/Grad/papers/similarchanges_paper/paper.tex
+/Users/MikeChong/Grad/projects/bug_repair/139329coverage.data
+/Users/MikeChong/Grad/projects/bug_repair/setup.example
+/Users/MikeChong/Grad/vulprediction/tool/up.sh
+/Users/MikeChong/Grad/vulprediction/tool/adaptors/file_adaptor.py
+/Users/MikeChong/Grad/vulprediction/tool/collectors/file_collector.py
+/Users/MikeChong/Grad/vulprediction/tool/managers/collector_manager.py
+/Users/MikeChong/Grad/vulprediction/tool/collectors/mozilla_hg.py
+/Users/MikeChong/Grad/vulprediction/tool/utils/utils.py
+/Users/MikeChong/Grad/vulprediction/tool/tool.py
+/Users/MikeChong/Grad/vulprediction/tool/inspectors/vuln_inspector.py
+/Users/MikeChong/Grad/vulprediction/.git/COMMIT_EDITMSG
+/Users/MikeChong/Grad/vulprediction/tool/adaptors/hg_adaptor.py
+/Users/MikeChong/Grad/vulprediction/tool/collectors/bugzilla.py
+/Users/MikeChong/Grad/vulprediction/tool/managers/inspector_manager.py
+/Users/MikeChong/Grad/vulprediction/tool/collectors/patches.py
+/Users/MikeChong/Grad/vulprediction/tool/inspectors/file_inspector.py
+/Users/MikeChong/Grad/vulprediction/tool/adaptors/db_adaptor.py
+/Users/MikeChong/Grad/vulprediction/tool/requirements.txt
+/Users/MikeChong/Grad/vulprediction/tool/adaptors/patch_adaptor.py
+/Users/MikeChong/Grad/vulprediction/tool/bin/patches/319296/diff
+/Users/MikeChong/Grad/vulprediction/tool/collectors/nvd.py
+/Users/MikeChong/Grad/vulprediction/WekaFeatures/input/arff.py
+/Users/MikeChong/Grad/vulprediction/WekaFeatures/tool.py
+/Users/MikeChong/Grad/vulprediction/WekaFeatures/README.md
+/Users/MikeChong/Grad/vulprediction/tool/resources/nvdcve-2.0-2004.xml
+/Users/MikeChong/Grad/vulprediction/tool/results_with_obsolete.csv
+/Users/MikeChong/Grad/vulprediction/tool/results.csv
+/Users/MikeChong/Grad/vulprediction/tool/out.txt
+/Users/MikeChong/Grad/vulprediction/tool/resources/nvdcve-2.0-2002.xml
+/Users/MikeChong/Grad/vulprediction/tool/bin/bug_logs.txt
+/Users/MikeChong/Grad/vulprediction/tool/test
+/Users/MikeChong/Grad/vulprediction/tool/inspectors/fn_inspector.py
+/Users/MikeChong/Grad/ece754/position/position.tex
+/Users/MikeChong/Grad/vulprediction/tool/bin/ft-update
+/Users/MikeChong/Grad/Mike/data/firefox_cwe.csv
+/Users/MikeChong/Grad/vulprediction/nvdcve.tar/nvdcve-2.0-2010.xml
+/Users/MikeChong/Grad/vulprediction/tool/bin/attachments/319296/temp.diff
+/Users/MikeChong/Grad/vulprediction/tool/attachments/319296/diff
+/Users/MikeChong/Grad/vulprediction/tool/__init__.py
+/Users/MikeChong/Grad/Mike/data/thunderbird_cwe.csv
+/Users/MikeChong/Grad/Mike/data/seamonkey_cwe.csv
+/Users/MikeChong/Grad/vulprediction/vuln.py
+/Users/MikeChong/Grad/vulprediction/out.txt
+/Users/MikeChong/Vuln/vulprediction/out.txt
+/Users/MikeChong/Vuln/vulprediction/.git/COMMIT_EDITMSG
+/Users/MikeChong/Vuln/vulprediction/vuln.py
+/Users/MikeChong/Vuln/vulprediction/nvdcve.tar/nvdcve-2.0-2002.xml
+/Users/MikeChong/Vuln/vulprediction/nvdcve.tar/nvdcve-2.0-2009.xml
+/Users/MikeChong/Vuln/vulprediction/nvdcve.tar/nvdcve-2.0-2003.xml
+/Users/MikeChong/Vuln/vulprediction/.git/config
+/Users/MikeChong/.ssh/id_rsa.pub
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/brainspawn.py
+/Users/MikeChong/.vimrc
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a4/a4/mcchong.grades
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a4/a4/mcchong.final
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a4/a4/mcchong.a4marks
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/controllers/visualizer_controller.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/views/visualizer.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/views/components/resize_box.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/views/canvas_item.py
+/Users/MikeChong/Nengo/Brainspawn/vagrant/manifest.pp
+/Users/MikeChong/Nengo/Brainspawn/examples/communication_channel.bpwn
+/Users/MikeChong/Nengo/Brainspawn/examples/two_dimensional_rep.bpwn
+/Users/MikeChong/Nengo/Brainspawn/examples/addition.bpwn
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/simulator/capabilities/capability.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/base_plot.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/simulator/sim_manager.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/views/network_view.py
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/a3/kanonfire.py
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/a3/xor.hs
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/a3/non-kanonymized.csv
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/a3/anonymized.csv
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/a3/short.csv
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/a3/Makefile
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/a3/Infectious_Disease_Record.csv
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a4/a4/Makefile
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a4/a4/report/report.tex
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a4/a4/src/nbody-opt.cpp
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a4/a4/src/nbody.cpp
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a4/a4/src/nbody-opt_kernel.cl
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a4/a4/bin/compare.py
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a4/a4/src/nbody_kernel.cl
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a3/g8/Makefile
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a4/a4/README
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a2/a2/report/report.tex
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a4/a4/src/nbody-seq.c
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a4/a4/readme
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a4/q_learning.out
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a4/q_learning.py
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a4/value_iteration.py
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a4/grid_world.py
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a4/gridWorld.m
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/project/submit/proj-skeleton/pi/parse.cpp
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/project/submit/proj-skeleton/pi/main.cpp
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/a3/HashTable.java
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/project/T2_demo1.c
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/a3/main.java
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/project/submit/proj-skeleton/pi/parse.hpp
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/project/submit/.git/COMMIT_EDITMSG
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/project/submit/proj-skeleton/test3/httpd.bc.orig
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/project/parse.cpp
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a3/g8/gatsp.hpp
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a3/g8/gatsp.cpp
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/project/submit/proj-skeleton/test2/main.graph
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a3/g8/solver.cpp
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/project/T2_demo2.c
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/project/submit/proj-skeleton/Makefile.common
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/project/submit/proj-skeleton/test1/gold_10_80
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/project/submit/proj-skeleton/readme
+/Users/MikeChong/4B Winter 2014/BIOL 273/Lab/Lab3/graph.py
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a3/g8/report/report.tex
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a3/g8/.git/COMMIT_EDITMSG
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a3/g8/.git/rebase-merge/git-rebase-todo
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a3/g8/prof_v.txt
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a3/g8/vector.diff
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a3/g8/prof.txt
+/Users/MikeChong/.bashrc
+/Users/MikeChong/.bash_profile
+/Users/MikeChong/.profile
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a3/submit/dtl.py
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a3/submit/nbm.py
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a3/submit/graph.py
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a2/submit/bayes.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/plot.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/value_plot.py
+/Users/MikeChong/Nengo/Brainspawn/.git/COMMIT_EDITMSG
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/views/components/menu_bar.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/network_view.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/spectrogram.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/raster_spike.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/firing_rate.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/simulator/adaptor.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/dogeplot.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/voltage_grid.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/simulator/capabilities/cap_factory.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/views/plot_view.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/__init__.py
+/Users/MikeChong/Nengo/Brainspawn/examples/ensemble_array.py
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a3/submit/20newsgroup/trainLabel.txt
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a3/submit/20newsgroup/words.txt
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a3/submit/20newsgroup/trainData.txt
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a3/dtl.py
+/Users/MikeChong/Nengo/Brainspawn/tutorial/tutorial_plot_v2.py
+/Users/MikeChong/Nengo/Brainspawn/tutorial/tutorial_plot_v3.py
+/Users/MikeChong/Nengo/Brainspawn/tutorial/tutorial_plot_v1.py
+/Users/MikeChong/Nengo/Brainspawn/tutorial/tutorial_plot_v0.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/tutorial_plot_v0.py
+/Users/MikeChong/Nengo/nengo/.git/COMMIT_EDITMSG
+/Users/MikeChong/Nengo/nengo/.git/config
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/tutorial_plot_v2.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/tutorial_plot_v3.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/tutorial_plot_v1.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/tutorial_plot.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/plots/xy_plot.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/controller/visualizer_controller.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/simulator/simulator.py
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/a2/submit/ids.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizations/plot.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizations/network_view.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizations/dogeplot.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizations/plot_view.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizations/voltage_grid.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizations/spectrogram.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizations/firing_rate.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizations/xy_plot.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizations/raster_spike.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizer.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/components/resize_box.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/components/controller_panel.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizations/__init__.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizations/_visualization.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizations/__visualization.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/components/menu_bar.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizations/_network_view.py
+/home/vagrant/Brainspawn/brainspawn/view/visualizer.py.orig
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/simulator/capabilities/output_cap.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizations/xy_plot.pyc
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/a2/submit/.git/COMMIT_EDITMSG
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/simulator/capabilities/voltages_cap.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/simulator/capabilities/spikes_cap.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/tests/sim_manager_test.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/visualizations/visualization.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/sample_networks/two_dimensional_rep.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/components/__init__.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/simulator/__init__.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/view/__init__.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/simulator/capabilities/__init__.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/__init__.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/controller/__init__.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/__main__.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/visualizer.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/visualizer_controller.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/tests/__init__.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/simulator/watchers/xy_watcher.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/simulator/watchers/voltage_grid_watcher.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/simulator/watchers/lfp_spectrogram_watcher.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/__main__
+/Users/MikeChong/Nengo/vagrant/Vagrantfile
+/Users/MikeChong/Nengo/vagrant/manifest.pp
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a2/a2/.git/COMMIT_EDITMSG
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a2/a2/src/fibonacci_omp.c
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a2/a2/src/fibonacci_omp_scalable.c
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a2/a2/src/fibonacci_omp_scalable
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/visualizer_test.py
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a2/a2/src/zeta.c
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a2/a2/Makefile
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a2/a2/src/zeta_auto.c
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a2/a2/src/zeta_omp.c
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a2/a2/src/fibonacci.c
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a1/a1/report/report.tex
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/a2/submit/sll_fixed.c
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a1/a1/valgrind.err
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a1/a1/time.err
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a1/a1/mcchong.report
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a1/a1/mcchong.finalresults
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/a2/SweetHome3D-3.7-src/src/com/eteks/sweethome3d/viewcontroller/PlanController.java
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/a2/scp/mutants/m2.c
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/a2/scp/mutants/m1.c
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/a2/scp/mutants/bs.c
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/a2/scp/sll_fixed.c
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a2/submit/run_bayes.py
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a2/submit/test_bayes.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/simulator/sim_controller.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/tests/sim_controller_test.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/sample_networks/2d_rep.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/tests/adaptor_test.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/gtk_demo_test.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/simulator/buffer.py
+/Users/MikeChong/Nengo/Brainspawn/brainspawn/tests/buffer_test.py
+/Users/MikeChong/Nengo/Brainspawn/src/simulator/sim_controller.py
+/Users/MikeChong/Nengo/Brainspawn/src/gtk_demo_test.py
+/Users/MikeChong/Nengo/Brainspawn/src/gtk_demo.py
+/Users/MikeChong/Nengo/Brainspawn/src/tests/sim_controller_test.py
+/Users/MikeChong/Nengo/Brainspawn/src/simulator/sim_manager.py
+/Users/MikeChong/Nengo/Brainspawn/src/tests/sim_manager_test.py
+/Users/MikeChong/Nengo/Brainspawn/src/tests/__init__.py
+/home/vagrant/Brainspawn/src/gtk_demo.py
+/Users/MikeChong/Nengo/Brainspawn/src/sample_networks/__init__.py
+/Users/MikeChong/Nengo/Brainspawn/src/sample_networks/spa_sequence/__init__.py
+/Users/MikeChong/Nengo/Brainspawn/src/simulator/simulator.py
+/Users/MikeChong/yankring_history_v2.txt
+/home/vagrant/yankring_history_v2.txt
+/Users/MikeChong/Nengo/archive/vagrant/Vagrantfile
+/Users/MikeChong/Nengo/vagrant/Vagrantfile.example
+/Users/MikeChong/Nengo/Brainspawn/src/simulator/nengo_theano_wrapper.py
+/Users/MikeChong/restrict_example.py
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/A1/submit/sploit4.c
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/A1/submit/sploit3.c
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/A1/submit/sploit1.c
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/A1/submit/sploit2.c
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/A1/submit/shellcode.h
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/A1/submit/sploitx.c
+/Users/MikeChong/4B Winter 2014/CS 458/assignments/A1/submit/backup.c
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/a1/a1-skeleton/TestM-skeleton.java
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/a1/submit/q1/q1.c
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a1/a1/src/paster_nbio.c
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/a1/a1-skeleton/submit/q1/q1.pl
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/a1/a1-skeleton/submit/q1/q1.py
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/a1/a1-skeleton/submit/q1/q1.java
+/Users/MikeChong/4B Winter 2014/SE 465/assignments/a1/a1-skeleton/submit/q1/q1.c
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a1/a1/src/paster_parallel.c
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a1/a1/src/paster.c
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a1/a1/.git/COMMIT_EDITMSG
+/Users/MikeChong/4B Winter 2014/ECE 459/assignments/a1/a1/Makefile
+/Users/MikeChong/4B Winter 2014/ECE 459/lecture_examples/assignment-02/src/mandelbrot.c
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a1/get_results
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a1/a1bf.java
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a1/run
+/Users/MikeChong/4B Winter 2014/CS 486/assignments/a1/a1b.java
